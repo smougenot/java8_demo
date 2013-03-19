@@ -1,0 +1,8 @@
+.classpath
+.idea
+.project
+.settings
+target
+*.class
+*.iml
+hs_err_*.log
